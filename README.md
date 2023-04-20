@@ -47,7 +47,7 @@ Tenho 20 anos e atualmente estudo no Instituto Maua de Tecnologia e gosto de tod
 <a href="https://www.instagram.com/eu_kanella/" alt="Instagram"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/eu_kanella/"/></a>
 
   
-![Snake animation](https://github.com/Kannella/Kannella/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Kannella/Kannella/blob/workflow/github-contribution-grid-snake.svg)
   
   </div>
   
