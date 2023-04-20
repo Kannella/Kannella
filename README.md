@@ -11,7 +11,7 @@ Tenho 20 anos e atualmente estudo no Instituto Maua de Tecnologia e gosto de tod
 - 😄 Apelidos: Kannella, Jairo, gio
 - ⚡ Fun fact: Sou DJ e produtor de musica eletronica
 - 🏆 Ferramentas: VSCode, Anaconda, Pycharm, GitHub
-- 🦊 Idiomas: Português, Inglês e Alemão 
+- 🦊 Idiomas: Português, Inglês e espanhol
 - 🫡 Sou extremamente legal, pode me chamar para qualquer coisa, tanto para trabalhos como para uma boa conversa entre colegas sobre diversos assuntos ⬇️
 ##
 
