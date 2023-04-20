@@ -1,9 +1,5 @@
 ### Oi pessoal 💙 Meu nome é Giovanni Canella, mais conhecido como Jairo e estudo Engenharia da Computação 
 
-<a href="https://br.freepik.com/vetores/tecnologia">
-         <img src="https://raw.githubusercontent.com/VgsStudio/VgsStudio/main/Pc.png" min-width="360px" max-width="360px" width="400px"           align="right" alt="Computador VgsStudio">
-</a>
-
 ##
 
 Tenho 20 anos e atualmente estudo no Instituto Maua de Tecnologia e gosto de todas as areas da computação. No ano de 2023 me juntei a uma entidade academica na minha faculdade onde estou aprendendo cada vez mais sobre programação e o ambiente corporativo em si. Tambem estou fazendo um curso a parte da Cisco Networking Academy sobre segurança cibernetica e outro curso de marketink digital. 
@@ -46,8 +42,6 @@ Tenho 20 anos e atualmente estudo no Instituto Maua de Tecnologia e gosto de tod
 <a href="https://www.linkedin.com/in/giovanni-canella-784471260/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://www.instagram.com/eu_kanella/" alt="Instagram"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/eu_kanella/"/></a>
 
-  
-![Snake animation](https://github.com/Kannella/Kannella/blob/workflow/github-contribution-grid-snake.svg)
   
   </div>
   
