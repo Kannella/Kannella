@@ -1,4 +1,4 @@
-### Oi pessoal 💙 Meu nome é Giovanni Canella, mais conhecido como Jairo e estudo Engenharia da Computação 
+### Oi pessoal 💙 Meu nome é Giovanni Canella, mais conhecido como Jairo e estudo Ciencias da Computação 
 
 ##
 
