@@ -8,7 +8,7 @@ Tenho 20 anos e atualmente estudo no Instituto Maua de Tecnologia e gosto de tod
 - 🌱 Estudante do Instituto Maua de Tecnologia
 - 📲 Entre em contato comigo pelo numero: *+55 11 97661-7350* ou pelo outlook no link abaixo ⬇️
 - 💬 Pergunte-me sobre desenvolvimento web, mobile ou linguagens em Geral ...
-- 🏆 Ferramentas: VSCode, Anaconda, Pycharm, GitHub
+- 🏆 Ferramentas: VSCode, Visual Studio, Anaconda, Pycharm, GitHub
 - 🦊 Idiomas: Português, Inglês e espanhol
 - 🫡 Sou extremamente legal, pode me chamar para qualquer coisa, tanto para trabalhos como para uma boa conversa entre colegas sobre diversos assuntos ⬇️
 - 😄 Apelidos: Kannella, Jairo, gio
