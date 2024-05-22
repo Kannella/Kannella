@@ -4,7 +4,7 @@
 
 Tenho 20 anos e atualmente estudo no Instituto Maua de Tecnologia e gosto de todas as areas da computação. No ano de 2023 me juntei a uma entidade academica na minha faculdade onde estou aprendendo cada vez mais sobre programação e o ambiente corporativo em si. Tambem estou fazendo um curso a parte da Cisco Networking Academy sobre segurança cibernetica e outro curso de marketink digital. 
 
-- 📚 Aprendendo atualmente mais sobre Phyton, JavaScript e C#
+- 📚 Aprendendo atualmente mais sobre Java, Phyton e JavaScript
 - 🌱 Estudante do Instituto Maua de Tecnologia
 - 📲 Entre em contato comigo pelo numero: *+55 11 97661-7350* ou pelo outlook no link abaixo ⬇️
 - 💬 Pergunte-me sobre desenvolvimento web, mobile ou linguagens em Geral ...
