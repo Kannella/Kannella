@@ -4,11 +4,17 @@
 
 Tenho 20 anos e atualmente estudo no Instituto Maua de Tecnologia e gosto de todas as areas da computação. No ano de 2023 me juntei a uma entidade academica na minha faculdade onde estou aprendendo cada vez mais sobre programação e o ambiente corporativo em si. Tambem estou fazendo um curso a parte da Cisco Networking Academy sobre segurança cibernetica e outro curso de marketink digital. 
 
-- 📚 Especialista em C#, Java, React
-- 🌱 Estudante do Instituto Maua de Tecnologia
-- 📲 Entre em contato comigo pelo numero: *+55 11 97661-7350* ou pelo outlook no link abaixo ⬇️
-- 💬 Pergunte-me sobre desenvolvimento web, mobile ou linguagens em Geral ...
-- 🏆 Ferramentas: VSCode, Visual Studio, Anaconda, Pycharm, GitHub
+- 🎯 Especialista em C#, com vasta experiência também em Java, React e outras tecnologias modernas de desenvolvimento.
+- 📚 Estudante de Ciência da Computação no Instituto Mauá de Tecnologia, sempre buscando aprender e dominar novas linguagens e frameworks.
+- 💡 Apaixonado por desenvolvimento web e mobile, com forte atuação em projetos Full Stack.
+- 🚀 Experiência com infraestrutura e automação utilizando ferramentas como AWS e AWX, além de ser fluente em metodologias ágeis e DevOps, com foco em integração contínua, entrega contínua (CI/CD) e automação de processos.
+- 🏆 Certificações relevantes, incluindo dois certificados em C# pela KaSolutions e diversos cursos em HTML5, CSS, JavaScript e outras tecnologias pela Udemy, ampliando constantemente seu conhecimento técnico.
+- 🌐 Domínio em diversas tecnologias como Java, React, React Native, Node.js, PHP e TypeScript, com as quais desenvolveu uma ampla variedade de projetos, desde aplicações web até soluções mobile e integrações de back-end.
+- 📬 Entre em contato:
+  - 📲 WhatsApp: +55 11 97661-7350
+  - 📧 Email: giovanni.kanella@outlook.com
+- 💻 Ferramentas principais: VSCode, Visual Studio, Anaconda, PyCharm, GitHub, Docker, Kubernetes, e muitas outras.
+- 💬 Pergunte-me sobre desenvolvimento web, mobile, integração com APIs, infraestrutura de nuvem, automação, ou qualquer linguagem de programação em geral!
 - 🦊 Idiomas: Português, Inglês e espanhol
 - 🫡 Sou extremamente legal, pode me chamar para qualquer coisa, tanto para trabalhos como para uma boa conversa entre colegas sobre diversos assuntos ⬇️
 - 😄 Apelidos: Kannella, Jairo, gio
