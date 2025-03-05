@@ -5,7 +5,7 @@
 Tenho 21 anos e atualmente estudo na Faculdade de Informática e Administração Paulista (FIAP) e gosto de todas as areas da computação.
 
 - 🎯 Especialista em Java, com vasta experiência também em Javascript, TypeScript, React e outras tecnologias modernas de desenvolvimento.
-- 📚 Estudante de Ciência da Computação na FIAP, sempre buscando aprender e dominar novas linguagens e frameworks.
+- 📚 Estudante de Sistemas da Informação na FIAP, sempre buscando aprender e dominar novas linguagens e frameworks.
 - 💡 Apaixonado por desenvolvimento web e mobile, com forte atuação em projetos Full Stack.
 - 🚀 Experiência com infraestrutura e automação utilizando ferramentas como AWS e AWX, além de ser fluente em metodologias ágeis e DevOps, com foco em integração contínua, entrega contínua (CI/CD) e automação de processos.
 - 🏆 Certificações relevantes, incluindo dois certificados em C# pela KaSolutions e diversos cursos em HTML5, CSS, JavaScript e outras tecnologias pela Udemy, ampliando constantemente seu conhecimento técnico.
