@@ -12,7 +12,7 @@ Tenho 21 anos e atualmente estudo na Faculdade de Informática e Administração
 - 🌐 Domínio em diversas tecnologias como Java, React, React Native, Node.js, PHP e TypeScript, com as quais desenvolveu uma ampla variedade de projetos, desde aplicações web até soluções mobile e integrações de back-end.
 - 📬 Entre em contato:
   - 📲 WhatsApp: +55 11 97661-7350
-  - 📧 Email: giovanni.kanella@outlook.com
+  - 📧 Email: gi.canella85@outlook.com
 - 💻 Ferramentas principais: IntelliJ, VSCode, Visual Studio, Eclipse, PyCharm, GitHub, Docker, Kubernetes, e muitas outras.
 - 💬 Pergunte-me sobre desenvolvimento web, mobile, integração com APIs, infraestrutura de nuvem, automação, ou qualquer linguagem de programação em geral!
 - 🦊 Idiomas: Português, Inglês e espanhol
